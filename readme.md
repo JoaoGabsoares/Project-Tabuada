@@ -1,0 +1,1 @@
+exercicio sobre tabuada com javascript do curso em video

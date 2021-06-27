@@ -1,0 +1,27 @@
+body{
+    background-image: url(64467-calculos-documento.jpg);
+    font: normal 15pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background: white;
+    border-radius: 25px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 25px 25px 25px black;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+#input{
+    box-shadow: 2px 2px 2px black;
+}
